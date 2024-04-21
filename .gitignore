@@ -1,6 +1,11 @@
 # Python
 __pycache__/
 venv/
+old_script/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+.gitignore
+.env
+
+sop_database.db
